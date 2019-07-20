@@ -1,0 +1,30 @@
+[submodule "tempo"]
+	path = tempo
+	url = git@github.com:ecosnail/tempo.git
+[submodule "flat"]
+	path = flat
+	url = git@github.com:ecosnail/flat.git
+[submodule "tail"]
+	path = tail
+	url = git@github.com:ecosnail/tail.git
+[submodule "argo"]
+	path = argo
+	url = git@github.com:ecosnail/argo.git
+[submodule "tops"]
+	path = tops
+	url = git@github.com:ecosnail/tops.git
+[submodule "evening"]
+	path = evening
+	url = git@github.com:ecosnail/evening.git
+[submodule "dimentia"]
+	path = dimentia
+	url = git@github.com:ecosnail/dimentia.git
+[submodule "config"]
+	path = config
+	url = git@github.com:ecosnail/config.git
+[submodule "thing"]
+	path = thing
+	url = git@github.com:ecosnail/thing.git
+[submodule "cmake"]
+	path = cmake
+	url = git@github.com:ecosnail/cmake.git
